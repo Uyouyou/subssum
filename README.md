@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 # Subssum - User Dashboard
 
-## Subssum is a simple user dashboard built with React and Tailwind CSS. The project utilizes additional packages such as Vite, React Router DOM, and React Icons to enhance functionality and styling.
+Subssum is a simple user dashboard built with React and Tailwind CSS. The project utilizes additional packages such as Vite, React Router DOM, and React Icons to enhance functionality and styling.
 
 ### You can access the live site using this link[https://subssumdashboard.netlify.app/]
 
